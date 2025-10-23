@@ -1,0 +1,1 @@
+I studied about git command and choose from different version of file from repository
